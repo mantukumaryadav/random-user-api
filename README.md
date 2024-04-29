@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+## Rendom User Api
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Project is rendom user api by using React.js
+
+## Screenshot
+![Screenshot (11)](https://github.com/mantukumaryadav/random-user-api/assets/65592276/9a2aec62-3162-4453-886d-5972253c4a7c)
 
 ## Available Scripts
 
